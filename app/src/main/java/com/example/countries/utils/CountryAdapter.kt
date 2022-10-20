@@ -12,6 +12,7 @@ class CountryAdapter(
     private val countries: MutableList<CountryResponse> = mutableListOf(),
     private val setCountries: (CountryResponse) -> Unit
 ) : RecyclerView.Adapter<CountryAdapter.CountryViewHolder>() {
+
     inner class CountryViewHolder(
         private val binding: CountryItemBinding
     ) : RecyclerView.ViewHolder(binding.root) {

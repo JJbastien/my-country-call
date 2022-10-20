@@ -9,7 +9,7 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17083333333333334" />
         <entry key="app/src/main/res/layout/country_item.xml" value="0.19270833333333334" />
-        <entry key="app/src/main/res/layout/fragment_country.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/fragment_country.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_nycschool.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_nycschool_list.xml" value="0.2164855072463768" />
         <entry key="app/src/main/res/layout/fragment_nycscore.xml" value="0.1" />
